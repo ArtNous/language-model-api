@@ -1,7 +1,12 @@
 {
-	"name": "svelteapp",
+	"name": "language-model-api",
 	"version": "0.0.1",
 	"type": "module",
+	"author": {
+		"name": "Jesus Pacheco",
+		"email": "1104xyz@gmail.com"
+	},
+	"packageManager": "npm",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
@@ -34,6 +39,6 @@
 		"vite": "^5.0.3"
 	},
 	"engines": {
-		"node": "22"
+		"node": ">=22"
 	}
 }
