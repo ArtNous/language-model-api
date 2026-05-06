@@ -6,7 +6,7 @@
 		"name": "Jesus Pacheco",
 		"email": "1104xyz@gmail.com"
 	},
-	"packageManager": "npm",
+	"packageManager": "npm@11.12.1",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
